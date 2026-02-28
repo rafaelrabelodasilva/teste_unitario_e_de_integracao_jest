@@ -6,7 +6,7 @@ Criei um arquivo chamado "assercoes.js" que contém alguns exemplos de asserçõ
 - O teste "operacoes" foi uma busca que fiz no jestjs.io para entender melhor o que essa ferramenta é capaz.
 - O teste "folhaDePagamento" e carrinho são testes que aprendi com o curso da Alura que ainda não foi finalizado.
 
-## Dependências
+## Dependências 🧙
 
 Neste projeto adicionamos o **Jest** que é um framework de teste unitário. Para instalar-lo basta digitar o comando abaixo no terminal:<br>
 
