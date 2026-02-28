@@ -1,4 +1,4 @@
-# O projeto
+# O projeto 🧙
 
 Este projeto foi criado como exercício do curso "Node.js: testes unitários e de integração".<br>
 Nele criei testes unitários com o jest.<br>
